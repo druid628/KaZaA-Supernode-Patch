@@ -1,4 +1,4 @@
-#README#h
+#README#
 This was created back in 02 to prevent machines on the network from functioning as a SuperNode and bringing the network to it's knees.  
 
 This started as a simple Visual Basic Script (in this repo) to patch a computer loaded with KaZaA. It helps prevent kazaa from bringing your network to its knees. 
