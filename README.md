@@ -1,4 +1,4 @@
-#KaZaA SuperNode Patch# ![Project status](http://stillmaintained.com/druid628/KaZaA-Supernode-Patch.png)
+#KaZaA SuperNode Patch # ![Project status](http://stillmaintained.com/druid628/KaZaA-Supernode-Patch.png)
 ##README##
 This was created back in 02 to prevent machines on the network from functioning as a SuperNode and bringing the network to it's knees.  
 
